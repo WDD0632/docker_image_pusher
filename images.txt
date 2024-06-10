@@ -1,1 +1,1 @@
-alist" xhofe/alist:latest
+"alist" xhofe/alist:latest
